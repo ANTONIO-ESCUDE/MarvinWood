@@ -1,2 +1,3 @@
 # MarvinWood
-Just like Netflix but for IA Movies, Series and Documentary's
+Just like Netflix but for IA Movies, Short Films
+Nonprofit project
